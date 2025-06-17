@@ -40,5 +40,5 @@ function draw() {
   const length = 200;
   const x0 = 100;
   const y0 = 300;
-  sierp(x0, y0, length, 6);
+  sierp(x0, y0, length, 7);
 }
